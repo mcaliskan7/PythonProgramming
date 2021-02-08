@@ -1,0 +1,4 @@
+Ayşe Yılmaz  60  70  80  71.0  CC  
+Ahmet Şahin  75  87  45  66.6  DC  
+Elif Sevgi  23  38  62  43.1  FF  
+Nazlı Ilıcak  91  65  83  80.0  BB  

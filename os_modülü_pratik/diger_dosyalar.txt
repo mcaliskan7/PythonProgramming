@@ -1,0 +1,1266 @@
+4jdilsiz_turkiye_haritasi_s - Kopya.png
+4jdilsiz_turkiye_haritasi_s.png
+codeblocks-17.12mingw-setup.exe
+desktop.ini
+edergi-sss.doc
+Kalkülüs II - Belgin Korkmaz.epub
+Setup.x86.tr-tr_ProfessionalRetail_NKGG6-WBPCC-HXWMY-6DQGJ-CPQVG_act_1_.exe
+WPS Office.lnk
+wps_office_inst.exe
+~$JAPONYA.pptx
+.name
+misc.xml
+modules.xml
+workspace.xml
+ .iml
+profiles_settings.xml
+2018kpss.zip
+fıkıh.ppt
+Donate with PayPal.url
+Fliqlo Setup.exe
+fliqlo_133.zip
+BEYAZ KALEM.zip
+YAPRAK TEST.zip
+gelişimin-sonuna-eklenecek-tablo.doc
+TEKRAR Bel1 - Kopya.docx
+ŞİFRELER ve KISA NOTLAR.doc
+çözümlü_matematik_kitabı_basit_düzeyde
+_Konu konu çıkmış sorular .zip
+openoffice1.cab
+openoffice416.msi
+setup.exe
+setup.ini
+LICENSE
+NOTICE
+readme_tr.html
+vcredist_x64.exe
+vcredist_x86.exe
+JAPONYA.pptx
+Konu.docx
+Makale.docx
+Ogretmen Bilgi Formu.docx
+Ogretmen Gorusme Formu.docx
+PROGRAM-GELISTIRME-birinci-bölüm.ppt
+UTGZ2935.MOV
+UTGZ2935.rar
+WNCR2056.MOV
+Yanardağ deneyi.docx
+Öğretim-İlke-ve-Yöntemleri-1.bölüm.pptx
+Adsız.png
+bayrak1.gif
+Görüşme Kaydı 1.m4a
+Görüşme Kaydı 2.m4a
+Görüşme 1.docx
+Görüşme 2.docx
+bilişsel gelişim.pptx
+bruner bilişsel gelişim kuramı.ppt
+OKUL ÖNCESİ EĞİTİMDE FEN ETKİNLİK ÖRNEĞİ.docx
+Rapor.docx
+1.ppt
+2.ppt
+1.pptx
+10.pptx
+11.pptx
+12.pptx
+2.ppt
+3.pptx
+4.pptx
+5.pptx
+7 (1).pptx
+8.pptx
+9.ppt
+HEAD-START.pptx
+MARİA MONTESSORİ.pptx
+MONTESSORİ UYGULAMA ÖRNEKLERİ.pptx
+reggio emilia.pptx
+SUMMERHILL OKULU slayt.pptx
+waldorf yaklaşımı.pptx
+easy-install.pth
+Pillow-7.0.0-cp38-cp38-win_amd64.whl
+setuptools-40.8.0-py3.8.egg
+setuptools.pth
+INSTALLER
+METADATA
+RECORD
+WHEEL
+dammit.py
+diagnose.py
+element.py
+formatter.py
+testing.py
+__init__.py
+_html5lib.py
+_htmlparser.py
+_lxml.py
+__init__.py
+_html5lib.cpython-38.pyc
+_htmlparser.cpython-38.pyc
+_lxml.cpython-38.pyc
+__init__.cpython-38.pyc
+test_builder_registry.py
+test_docs.py
+test_html5lib.py
+test_htmlparser.py
+test_lxml.py
+test_soup.py
+test_tree.py
+__init__.py
+test_builder_registry.cpython-38.pyc
+test_docs.cpython-38.pyc
+test_html5lib.cpython-38.pyc
+test_htmlparser.cpython-38.pyc
+test_lxml.cpython-38.pyc
+test_soup.cpython-38.pyc
+test_tree.cpython-38.pyc
+__init__.cpython-38.pyc
+dammit.cpython-38.pyc
+diagnose.cpython-38.pyc
+element.cpython-38.pyc
+formatter.cpython-38.pyc
+testing.cpython-38.pyc
+__init__.cpython-38.pyc
+cacert.pem
+core.py
+__init__.py
+__main__.py
+core.cpython-38.pyc
+__init__.cpython-38.pyc
+__main__.cpython-38.pyc
+DESCRIPTION.rst
+INSTALLER
+METADATA
+metadata.json
+RECORD
+WHEEL
+big5freq.py
+big5prober.py
+chardistribution.py
+charsetgroupprober.py
+charsetprober.py
+codingstatemachine.py
+compat.py
+cp949prober.py
+enums.py
+escprober.py
+escsm.py
+eucjpprober.py
+euckrfreq.py
+euckrprober.py
+euctwfreq.py
+euctwprober.py
+gb2312freq.py
+gb2312prober.py
+hebrewprober.py
+jisfreq.py
+jpcntx.py
+langbulgarianmodel.py
+langcyrillicmodel.py
+langgreekmodel.py
+langhebrewmodel.py
+langhungarianmodel.py
+langthaimodel.py
+langturkishmodel.py
+latin1prober.py
+mbcharsetprober.py
+mbcsgroupprober.py
+mbcssm.py
+sbcharsetprober.py
+sbcsgroupprober.py
+sjisprober.py
+universaldetector.py
+utf8prober.py
+version.py
+__init__.py
+chardetect.py
+__init__.py
+chardetect.cpython-38.pyc
+__init__.cpython-38.pyc
+big5freq.cpython-38.pyc
+big5prober.cpython-38.pyc
+chardistribution.cpython-38.pyc
+charsetgroupprober.cpython-38.pyc
+charsetprober.cpython-38.pyc
+codingstatemachine.cpython-38.pyc
+compat.cpython-38.pyc
+cp949prober.cpython-38.pyc
+enums.cpython-38.pyc
+escprober.cpython-38.pyc
+escsm.cpython-38.pyc
+eucjpprober.cpython-38.pyc
+euckrfreq.cpython-38.pyc
+euckrprober.cpython-38.pyc
+euctwfreq.cpython-38.pyc
+euctwprober.cpython-38.pyc
+gb2312freq.cpython-38.pyc
+gb2312prober.cpython-38.pyc
+hebrewprober.cpython-38.pyc
+jisfreq.cpython-38.pyc
+jpcntx.cpython-38.pyc
+langbulgarianmodel.cpython-38.pyc
+langcyrillicmodel.cpython-38.pyc
+langgreekmodel.cpython-38.pyc
+langhebrewmodel.cpython-38.pyc
+langhungarianmodel.cpython-38.pyc
+langthaimodel.cpython-38.pyc
+langturkishmodel.cpython-38.pyc
+latin1prober.cpython-38.pyc
+mbcharsetprober.cpython-38.pyc
+mbcsgroupprober.cpython-38.pyc
+mbcssm.cpython-38.pyc
+sbcharsetprober.cpython-38.pyc
+sbcsgroupprober.cpython-38.pyc
+sjisprober.cpython-38.pyc
+universaldetector.cpython-38.pyc
+utf8prober.cpython-38.pyc
+version.cpython-38.pyc
+__init__.cpython-38.pyc
+DESCRIPTION.rst
+INSTALLER
+METADATA
+metadata.json
+RECORD
+WHEEL
+codec.py
+compat.py
+core.py
+idnadata.py
+intranges.py
+package_data.py
+uts46data.py
+__init__.py
+codec.cpython-38.pyc
+compat.cpython-38.pyc
+core.cpython-38.pyc
+idnadata.cpython-38.pyc
+intranges.cpython-38.pyc
+package_data.cpython-38.pyc
+uts46data.cpython-38.pyc
+__init__.cpython-38.pyc
+INSTALLER
+LICENSE.rst
+METADATA
+RECORD
+WHEEL
+not-zip-safe
+PKG-INFO
+__init__.py
+__main__.py
+build_env.py
+cache.py
+configuration.py
+download.py
+exceptions.py
+index.py
+locations.py
+pep425tags.py
+pyproject.py
+resolve.py
+wheel.py
+__init__.py
+autocompletion.py
+base_command.py
+cmdoptions.py
+main_parser.py
+parser.py
+status_codes.py
+__init__.py
+autocompletion.cpython-38.pyc
+base_command.cpython-38.pyc
+cmdoptions.cpython-38.pyc
+main_parser.cpython-38.pyc
+parser.cpython-38.pyc
+status_codes.cpython-38.pyc
+__init__.cpython-38.pyc
+check.py
+completion.py
+configuration.py
+download.py
+freeze.py
+hash.py
+help.py
+install.py
+list.py
+search.py
+show.py
+uninstall.py
+wheel.py
+__init__.py
+check.cpython-38.pyc
+completion.cpython-38.pyc
+configuration.cpython-38.pyc
+download.cpython-38.pyc
+freeze.cpython-38.pyc
+hash.cpython-38.pyc
+help.cpython-38.pyc
+install.cpython-38.pyc
+list.cpython-38.pyc
+search.cpython-38.pyc
+show.cpython-38.pyc
+uninstall.cpython-38.pyc
+wheel.cpython-38.pyc
+__init__.cpython-38.pyc
+candidate.py
+format_control.py
+index.py
+link.py
+__init__.py
+candidate.cpython-38.pyc
+format_control.cpython-38.pyc
+index.cpython-38.pyc
+link.cpython-38.pyc
+__init__.cpython-38.pyc
+check.py
+freeze.py
+prepare.py
+__init__.py
+check.cpython-38.pyc
+freeze.cpython-38.pyc
+prepare.cpython-38.pyc
+__init__.cpython-38.pyc
+constructors.py
+req_file.py
+req_install.py
+req_set.py
+req_tracker.py
+req_uninstall.py
+__init__.py
+constructors.cpython-38.pyc
+req_file.cpython-38.pyc
+req_install.cpython-38.pyc
+req_set.cpython-38.pyc
+req_tracker.cpython-38.pyc
+req_uninstall.cpython-38.pyc
+__init__.cpython-38.pyc
+appdirs.py
+compat.py
+deprecation.py
+encoding.py
+filesystem.py
+glibc.py
+hashes.py
+logging.py
+misc.py
+models.py
+outdated.py
+packaging.py
+setuptools_build.py
+temp_dir.py
+typing.py
+ui.py
+__init__.py
+appdirs.cpython-38.pyc
+compat.cpython-38.pyc
+deprecation.cpython-38.pyc
+encoding.cpython-38.pyc
+filesystem.cpython-38.pyc
+glibc.cpython-38.pyc
+hashes.cpython-38.pyc
+logging.cpython-38.pyc
+misc.cpython-38.pyc
+models.cpython-38.pyc
+outdated.cpython-38.pyc
+packaging.cpython-38.pyc
+setuptools_build.cpython-38.pyc
+temp_dir.cpython-38.pyc
+typing.cpython-38.pyc
+ui.cpython-38.pyc
+__init__.cpython-38.pyc
+bazaar.py
+git.py
+mercurial.py
+subversion.py
+__init__.py
+bazaar.cpython-38.pyc
+git.cpython-38.pyc
+mercurial.cpython-38.pyc
+subversion.cpython-38.pyc
+__init__.cpython-38.pyc
+build_env.cpython-38.pyc
+cache.cpython-38.pyc
+configuration.cpython-38.pyc
+download.cpython-38.pyc
+exceptions.cpython-38.pyc
+index.cpython-38.pyc
+locations.cpython-38.pyc
+pep425tags.cpython-38.pyc
+pyproject.cpython-38.pyc
+resolve.cpython-38.pyc
+wheel.cpython-38.pyc
+__init__.cpython-38.pyc
+appdirs.py
+distro.py
+ipaddress.py
+pyparsing.py
+retrying.py
+six.py
+__init__.py
+adapter.py
+cache.py
+compat.py
+controller.py
+filewrapper.py
+heuristics.py
+serialize.py
+wrapper.py
+_cmd.py
+__init__.py
+file_cache.py
+redis_cache.py
+__init__.py
+file_cache.cpython-38.pyc
+redis_cache.cpython-38.pyc
+__init__.cpython-38.pyc
+adapter.cpython-38.pyc
+cache.cpython-38.pyc
+compat.cpython-38.pyc
+controller.cpython-38.pyc
+filewrapper.cpython-38.pyc
+serialize.cpython-38.pyc
+wrapper.cpython-38.pyc
+__init__.cpython-38.pyc
+cacert.pem
+core.py
+__init__.py
+__main__.py
+core.cpython-38.pyc
+__init__.cpython-38.pyc
+big5freq.py
+big5prober.py
+chardistribution.py
+charsetgroupprober.py
+charsetprober.py
+codingstatemachine.py
+compat.py
+cp949prober.py
+enums.py
+escprober.py
+escsm.py
+eucjpprober.py
+euckrfreq.py
+euckrprober.py
+euctwfreq.py
+euctwprober.py
+gb2312freq.py
+gb2312prober.py
+hebrewprober.py
+jisfreq.py
+jpcntx.py
+langbulgarianmodel.py
+langcyrillicmodel.py
+langgreekmodel.py
+langhebrewmodel.py
+langhungarianmodel.py
+langthaimodel.py
+langturkishmodel.py
+latin1prober.py
+mbcharsetprober.py
+mbcsgroupprober.py
+mbcssm.py
+sbcharsetprober.py
+sbcsgroupprober.py
+sjisprober.py
+universaldetector.py
+utf8prober.py
+version.py
+__init__.py
+chardetect.py
+__init__.py
+big5freq.cpython-38.pyc
+big5prober.cpython-38.pyc
+chardistribution.cpython-38.pyc
+charsetgroupprober.cpython-38.pyc
+charsetprober.cpython-38.pyc
+codingstatemachine.cpython-38.pyc
+compat.cpython-38.pyc
+cp949prober.cpython-38.pyc
+enums.cpython-38.pyc
+escprober.cpython-38.pyc
+escsm.cpython-38.pyc
+eucjpprober.cpython-38.pyc
+euckrfreq.cpython-38.pyc
+euckrprober.cpython-38.pyc
+euctwfreq.cpython-38.pyc
+euctwprober.cpython-38.pyc
+gb2312freq.cpython-38.pyc
+gb2312prober.cpython-38.pyc
+hebrewprober.cpython-38.pyc
+jisfreq.cpython-38.pyc
+jpcntx.cpython-38.pyc
+langbulgarianmodel.cpython-38.pyc
+langcyrillicmodel.cpython-38.pyc
+langgreekmodel.cpython-38.pyc
+langhebrewmodel.cpython-38.pyc
+langthaimodel.cpython-38.pyc
+langturkishmodel.cpython-38.pyc
+latin1prober.cpython-38.pyc
+mbcharsetprober.cpython-38.pyc
+mbcsgroupprober.cpython-38.pyc
+mbcssm.cpython-38.pyc
+sbcharsetprober.cpython-38.pyc
+sbcsgroupprober.cpython-38.pyc
+sjisprober.cpython-38.pyc
+universaldetector.cpython-38.pyc
+utf8prober.cpython-38.pyc
+version.cpython-38.pyc
+__init__.cpython-38.pyc
+ansi.py
+ansitowin32.py
+initialise.py
+win32.py
+winterm.py
+__init__.py
+ansi.cpython-38.pyc
+ansitowin32.cpython-38.pyc
+initialise.cpython-38.pyc
+win32.cpython-38.pyc
+winterm.cpython-38.pyc
+__init__.cpython-38.pyc
+compat.py
+database.py
+index.py
+locators.py
+manifest.py
+markers.py
+metadata.py
+resources.py
+scripts.py
+t32.exe
+t64.exe
+util.py
+version.py
+w32.exe
+w64.exe
+wheel.py
+__init__.py
+misc.py
+shutil.py
+sysconfig.cfg
+sysconfig.py
+tarfile.py
+__init__.py
+compat.cpython-38.pyc
+resources.cpython-38.pyc
+scripts.cpython-38.pyc
+util.cpython-38.pyc
+__init__.cpython-38.pyc
+constants.py
+html5parser.py
+serializer.py
+_ihatexml.py
+_inputstream.py
+_tokenizer.py
+_utils.py
+__init__.py
+alphabeticalattributes.py
+base.py
+inject_meta_charset.py
+lint.py
+optionaltags.py
+sanitizer.py
+whitespace.py
+__init__.py
+genshi.py
+sax.py
+__init__.py
+base.py
+dom.py
+etree.py
+etree_lxml.py
+__init__.py
+base.cpython-38.pyc
+etree.cpython-38.pyc
+__init__.cpython-38.pyc
+base.py
+dom.py
+etree.py
+etree_lxml.py
+genshi.py
+__init__.py
+__init__.cpython-38.pyc
+datrie.py
+py.py
+_base.py
+__init__.py
+datrie.cpython-38.pyc
+py.cpython-38.pyc
+_base.cpython-38.pyc
+__init__.cpython-38.pyc
+constants.cpython-38.pyc
+html5parser.cpython-38.pyc
+serializer.cpython-38.pyc
+_ihatexml.cpython-38.pyc
+_inputstream.cpython-38.pyc
+_tokenizer.cpython-38.pyc
+_utils.cpython-38.pyc
+__init__.cpython-38.pyc
+codec.py
+compat.py
+core.py
+idnadata.py
+intranges.py
+package_data.py
+uts46data.py
+__init__.py
+core.cpython-38.pyc
+idnadata.cpython-38.pyc
+intranges.cpython-38.pyc
+package_data.cpython-38.pyc
+__init__.cpython-38.pyc
+linklockfile.py
+mkdirlockfile.py
+pidlockfile.py
+sqlitelockfile.py
+symlinklockfile.py
+__init__.py
+linklockfile.cpython-38.pyc
+mkdirlockfile.cpython-38.pyc
+__init__.cpython-38.pyc
+exceptions.py
+fallback.py
+_version.py
+__init__.py
+exceptions.cpython-38.pyc
+fallback.cpython-38.pyc
+_version.cpython-38.pyc
+__init__.cpython-38.pyc
+markers.py
+requirements.py
+specifiers.py
+utils.py
+version.py
+_compat.py
+_structures.py
+__about__.py
+__init__.py
+markers.cpython-38.pyc
+requirements.cpython-38.pyc
+specifiers.cpython-38.pyc
+utils.cpython-38.pyc
+version.cpython-38.pyc
+_compat.cpython-38.pyc
+_structures.cpython-38.pyc
+__about__.cpython-38.pyc
+__init__.cpython-38.pyc
+build.py
+check.py
+colorlog.py
+compat.py
+envbuild.py
+wrappers.py
+_in_process.py
+__init__.py
+compat.cpython-38.pyc
+wrappers.cpython-38.pyc
+__init__.cpython-38.pyc
+py31compat.py
+__init__.py
+py31compat.cpython-38.pyc
+__init__.cpython-38.pyc
+bar.py
+counter.py
+helpers.py
+spinner.py
+__init__.py
+bar.cpython-38.pyc
+helpers.cpython-38.pyc
+spinner.cpython-38.pyc
+__init__.cpython-38.pyc
+core.py
+parser.py
+test.py
+utils.py
+writer.py
+__init__.py
+core.cpython-38.pyc
+parser.cpython-38.pyc
+test.cpython-38.pyc
+utils.cpython-38.pyc
+writer.cpython-38.pyc
+__init__.cpython-38.pyc
+adapters.py
+api.py
+auth.py
+certs.py
+compat.py
+cookies.py
+exceptions.py
+help.py
+hooks.py
+models.py
+packages.py
+sessions.py
+status_codes.py
+structures.py
+utils.py
+_internal_utils.py
+__init__.py
+__version__.py
+adapters.cpython-38.pyc
+api.cpython-38.pyc
+auth.cpython-38.pyc
+certs.cpython-38.pyc
+compat.cpython-38.pyc
+cookies.cpython-38.pyc
+exceptions.cpython-38.pyc
+hooks.cpython-38.pyc
+models.cpython-38.pyc
+packages.cpython-38.pyc
+sessions.cpython-38.pyc
+status_codes.cpython-38.pyc
+structures.cpython-38.pyc
+utils.cpython-38.pyc
+_internal_utils.cpython-38.pyc
+__init__.cpython-38.pyc
+__version__.cpython-38.pyc
+connection.py
+connectionpool.py
+exceptions.py
+fields.py
+filepost.py
+poolmanager.py
+request.py
+response.py
+_collections.py
+__init__.py
+appengine.py
+ntlmpool.py
+pyopenssl.py
+securetransport.py
+socks.py
+_appengine_environ.py
+__init__.py
+bindings.py
+low_level.py
+__init__.py
+socks.cpython-38.pyc
+_appengine_environ.cpython-38.pyc
+__init__.cpython-38.pyc
+six.py
+__init__.py
+makefile.py
+__init__.py
+_implementation.py
+__init__.py
+__init__.cpython-38.pyc
+six.cpython-38.pyc
+__init__.cpython-38.pyc
+connection.py
+queue.py
+request.py
+response.py
+retry.py
+ssl_.py
+timeout.py
+url.py
+wait.py
+__init__.py
+connection.cpython-38.pyc
+queue.cpython-38.pyc
+request.cpython-38.pyc
+response.cpython-38.pyc
+retry.cpython-38.pyc
+ssl_.cpython-38.pyc
+timeout.cpython-38.pyc
+url.cpython-38.pyc
+wait.cpython-38.pyc
+__init__.cpython-38.pyc
+connection.cpython-38.pyc
+connectionpool.cpython-38.pyc
+exceptions.cpython-38.pyc
+fields.cpython-38.pyc
+filepost.cpython-38.pyc
+poolmanager.cpython-38.pyc
+request.cpython-38.pyc
+response.cpython-38.pyc
+_collections.cpython-38.pyc
+__init__.cpython-38.pyc
+labels.py
+mklabels.py
+tests.py
+x_user_defined.py
+__init__.py
+labels.cpython-38.pyc
+__init__.cpython-38.pyc
+appdirs.cpython-38.pyc
+pyparsing.cpython-38.pyc
+retrying.cpython-38.pyc
+six.cpython-38.pyc
+__init__.cpython-38.pyc
+__init__.cpython-38.pyc
+__main__.cpython-38.pyc
+adapters.py
+api.py
+auth.py
+certs.py
+compat.py
+cookies.py
+exceptions.py
+help.py
+hooks.py
+models.py
+packages.py
+sessions.py
+status_codes.py
+structures.py
+utils.py
+_internal_utils.py
+__init__.py
+__version__.py
+adapters.cpython-38.pyc
+api.cpython-38.pyc
+auth.cpython-38.pyc
+certs.cpython-38.pyc
+compat.cpython-38.pyc
+cookies.cpython-38.pyc
+exceptions.cpython-38.pyc
+help.cpython-38.pyc
+hooks.cpython-38.pyc
+models.cpython-38.pyc
+packages.cpython-38.pyc
+sessions.cpython-38.pyc
+status_codes.cpython-38.pyc
+structures.cpython-38.pyc
+utils.cpython-38.pyc
+_internal_utils.cpython-38.pyc
+__init__.cpython-38.pyc
+__version__.cpython-38.pyc
+INSTALLER
+LICENSE
+METADATA
+RECORD
+WHEEL
+css_match.py
+css_parser.py
+css_types.py
+util.py
+__init__.py
+__meta__.py
+css_match.cpython-38.pyc
+css_parser.cpython-38.pyc
+css_types.cpython-38.pyc
+util.cpython-38.pyc
+__init__.cpython-38.pyc
+__meta__.cpython-38.pyc
+INSTALLER
+LICENSE.md
+METADATA
+RECORD
+WHEEL
+connection.py
+connectionpool.py
+exceptions.py
+fields.py
+filepost.py
+poolmanager.py
+request.py
+response.py
+_collections.py
+__init__.py
+appengine.py
+ntlmpool.py
+pyopenssl.py
+securetransport.py
+socks.py
+_appengine_environ.py
+__init__.py
+bindings.py
+low_level.py
+__init__.py
+bindings.cpython-38.pyc
+low_level.cpython-38.pyc
+__init__.cpython-38.pyc
+appengine.cpython-38.pyc
+ntlmpool.cpython-38.pyc
+pyopenssl.cpython-38.pyc
+securetransport.cpython-38.pyc
+socks.cpython-38.pyc
+_appengine_environ.cpython-38.pyc
+__init__.cpython-38.pyc
+six.py
+__init__.py
+makefile.py
+__init__.py
+makefile.cpython-38.pyc
+__init__.cpython-38.pyc
+_implementation.py
+__init__.py
+_implementation.cpython-38.pyc
+__init__.cpython-38.pyc
+six.cpython-38.pyc
+__init__.cpython-38.pyc
+connection.py
+queue.py
+request.py
+response.py
+retry.py
+ssl_.py
+timeout.py
+url.py
+wait.py
+__init__.py
+connection.cpython-38.pyc
+queue.cpython-38.pyc
+request.cpython-38.pyc
+response.cpython-38.pyc
+retry.cpython-38.pyc
+ssl_.cpython-38.pyc
+timeout.cpython-38.pyc
+url.cpython-38.pyc
+wait.cpython-38.pyc
+__init__.cpython-38.pyc
+connection.cpython-38.pyc
+connectionpool.cpython-38.pyc
+exceptions.cpython-38.pyc
+fields.cpython-38.pyc
+filepost.cpython-38.pyc
+poolmanager.cpython-38.pyc
+request.cpython-38.pyc
+response.cpython-38.pyc
+_collections.cpython-38.pyc
+__init__.cpython-38.pyc
+INSTALLER
+METADATA
+RECORD
+WHEEL
+activate
+activate.bat
+Activate.ps1
+chardetect.exe
+easy_install-script.py
+easy_install.exe
+pip-script.py
+pip.exe
+pip3-script.py
+pip3.8-script.py
+pip3.8.exe
+pip3.exe
+python.exe
+pyvenv.cfg
+Arduino.lnk
+CodeBlocks.lnk
+desktop.ini
+JetBrains PyCharm Edu 2019.3 x64.lnk
+desktop.ini
+main.c
+main.exe
+main.o
+mc8.cbp
+mc8.depend
+mc8.exe
+main.o
+main.c
+midterm_final.cbp
+midterm_final.depend
+midterm_final.layout
+midterm_final.exe
+main.o
+acik_kapi.cbp
+acik_kapi.depend
+acik_kapi.layout
+main.c
+main.exe
+main.o
+acik_kapi.exe
+main.o
+main.c
+main.exe
+main.o
+[13] password_verification.cbp
+[13] password_verification.depend
+[13] password_verification.exe
+main.o
+main.c
+[14] average_of_arrays.cbp
+[14] average_of_arrays.depend
+[14] average_of_arrays.layout
+[14] average_of_arrays.exe
+main.o
+main.c
+main.exe
+main.o
+[15] multidimensional_array.cbp
+[15] multidimensional_array.depend
+[15] multidimensional_array.layout
+[15] multidimensional_array.exe
+main.o
+find_maximum.cbp
+find_maximum.depend
+find_maximum.layout
+main.c
+find_maximum.exe
+main.o
+main.c
+main.exe
+main.o
+name_list.cbp
+main.c
+[14] number_.cbp
+[14] number_.depend
+[14] number_.layout
+[14] number_.exe
+main.o
+main.c
+main.exe
+main.o
+[19] taylor_series.cbp
+[19] taylor_series.depend
+[19] taylor_series.layout
+[19] taylor_series.exe
+main.o
+main.c
+mc0.cbp
+mc0.depend
+mc0.layout
+mc0.exe
+main.o
+main.c
+main.exe
+main.o
+[20] midtermII_whileloop.cbp
+[20] midtermII_whileloop.layout
+[20] midtermII_whileloop.exe
+main.o
+main.c
+main.exe
+main.o
+[21] midtermII_arrayfunction.cbp
+[21] midtermII_arrayfunction.depend
+[21] midtermII_arrayfunction.layout
+[21] midtermII_arrayfunction.exe
+main.o
+main.c
+[22] midtermII_forloop.cbp
+[22] midtermII_forloop.layout
+[22] midtermII_forloop.exe
+main.o
+main.c
+[22] pointer_calcular.cbp
+[22] pointer_calcular.depend
+[22] pointer_calcular.layout
+[22] pointer_calcular.exe
+main.o
+main.c
+[23] grading_struct.cbp
+[23] grading_struct.depend
+[23] grading_struct.layout
+[23] grading_struct.exe
+main.o
+main.c
+[24] bublesort.cbp
+[24] bublesort.depend
+[24] bublesort.layout
+[24] bublesort.exe
+main.o
+main.c
+[25] selectionsort.cbp
+[25] selectionsort.layout
+[25] selectionsort.exe
+main.o
+main.c
+[26] insertionsort.cbp
+[26] insertionsort.layout
+[26] insertionsort.exe
+main.o
+main.c
+[27] linearsearch.cbp
+[27] linearsearch.depend
+[27] linearsearch.layout
+[27] linearsearch.exe
+main.o
+main.c
+main.exe
+main.o
+[28] binarysearch.cbp
+[28] binarysearch.depend
+[28] binarysearch.layout
+[28] binarysearch.exe
+main.o
+main.c
+[29] sum_and_average_of_given_numbers.cbp
+[29] sum_and_average_of_given_numbers.layout
+[29] sum_and_average_of_given_numbers.exe
+main.o
+main.c
+mc1.cbp
+mc1.depend
+mc1.layout
+mc1.exe
+main.o
+main.c
+[30] timestable.cbp
+[30] timestable.layout
+[30] timestable.exe
+main.o
+main.c
+main.exe
+main.o
+[31] sum_of_two-digit_numbers'_digits.cbp
+[31] sum_of_two-digit_numbers'_digits.layout
+main.c
+[32] find_numbers_containin_n.cbp
+[32] find_numbers_containin_n.layout
+[32] find_numbers_containin_n.exe
+main.o
+exam_question(foo_function).cbp
+exam_question(foo_function).depend
+exam_question(foo_function).layout
+main.c
+exam_question(foo_function).exe
+main.o
+main.c
+main.exe
+main.o
+[34] pattern0.cbp
+[34] pattern0.layout
+[34] pattern0.exe
+main.o
+main.c
+[35] pattern1.cbp
+[35] pattern1.layout
+[35] pattern1.exe
+main.o
+main.c
+[36] pattern2.cbp
+[36] pattern2.layout
+[36] pattern2.exe
+main.o
+main.c
+[37] pattern3.cbp
+[37] pattern3.layout
+[37] pattern3.exe
+main.o
+main.c
+[38] sample1.cbp
+[38] sample1.layout
+[38] sample1.exe
+main.o
+main.c
+[39] string_sample.cbp
+[39] string_sample.layout
+[39] string_sample.exe
+main.o
+main.c
+mc2.cbp
+mc2.layout
+mc2.exe
+main.o
+main.c
+[40] string_sample.cbp
+[40] string_sample.layout
+[40] string_sample.exe
+main.o
+main.c
+[41] string_sample2.cbp
+[41] string_sample2.depend
+[41] string_sample2.layout
+[41] string_sample2.exe
+main.o
+examq1.cbp
+examq1.depend
+examq1.layout
+main.c
+examq1.exe
+main.o
+main.c
+main.exe
+main.o
+mc3.cbp
+mc3.depend
+mc3.layout
+mc3.exe
+main.o
+main.c
+mc4.cbp
+mc4.depend
+mc4.layout
+mc4.exe
+main.o
+main.c
+mc5.cbp
+mc5.depend
+mc5.layout
+mc5.exe
+main.o
+main.c
+mc6.cbp
+mc6.depend
+mc6.layout
+mc6.exe
+main.o
+main.c
+main.exe
+main.o
+mc7.cbp
+mc7.depend
+mc7.layout
+mc7.exe
+main.o
+main.c
+mc9.cbp
+mc9.depend
+mc9.layout
+mc9.exe
+main.o
+desktop.ini
+milenyum_asal_sayı.py
+milenyum_collatz.py
+milenyum_fermat_asallari.py
+milenyum_mersenne.py
+milenyum_mükemmel.py
+[10] armstrongNumbers.py
+[11] listComprehension.py
+[12] primeNumbers.py
+[13] GCD&LCM.py
+[14] pythagoreanTheorem.py
+[15] advancedCalculator.py
+[16] kumandaKontrol.py
+[17] bilgisayarÖzellik.py
+[18] try&exceptDemo.py
+[19] even&oddRaiseError.py
+[1] bodyMassIndex.py
+[22] map&reduce&filter&zip&enumerate&all&any.py
+[23] functionExercises.py
+[24] advancedFunctions_numbers.py
+[25] advancedFunctions_strings.py
+[26] advancedFunctıons_sets.py
+[27] advancedFunctions_lists.py
+[29] frekansHesabı.py
+[2] functionRoots.py
+[34] average_decorator.py
+[35] asal_mukemmel_decorator.py
+[36] iterator_kuvvetal.py
+[37] generator_fibonacci.py
+[38] iterator_kareal.py
+[39] generator_asal.py
+[3] simpleCalculator.py
+[40] datetime_modül.py
+[41] os_module.py
+[42] sys_module.py
+[43] requests&beautifulsoup_modules.py
+[44] imdb_top250.py
+[45] döviz_veri_çekme.py
+[46] smtp_gmail.py
+[4] userLogin.py
+[5] dictionaryKeys&Values.py
+[6] timesTable.py
+[7] findFactorial.py
+[8] fibonacciSerie.py
+[9] perfectNumbers.py
+[20] dosyaYazma&Okuma_harfNotu.py
+[21] futbolcuSınıflandırma.py
+[28] dosyaOkuma&frekansHesabı.py
+[30] akrostiş.py
+kütüphane.db
+[31] veritabanı.py
+deneme_kütüphanem.py
+kütüphanem.db
+kütüphanem.py
+kütüphanem.cpython-38.pyc
+deneme_muzik_cantasi.py
+muzikcantasi.db
+muzikcantasi.py
+muzikcantasi.cpython-38.pyc
+muzik_cantasi.cpython-38.pyc
+pillow.py
+dosya_uzantıları.py
+desktop.ini
